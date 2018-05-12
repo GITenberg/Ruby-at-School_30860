@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '34864'
     url: http://www.gutenberg.org/2009/agents/34864
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30860#Ruby-at-School
 gutenberg_issued: '2010-01-05'
 gutenberg_type: Text
 identifiers:
