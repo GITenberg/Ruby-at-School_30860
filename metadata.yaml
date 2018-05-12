@@ -1,0 +1,41 @@
+_repo: Ruby-at-School_30860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paull, George A., Mrs.
+    aliases:
+    - Paull, Minnie E.
+    - Paull, Mrs. George A.
+    - Kenney, M. E. (Minnie E.)
+    - Kenney, Minnie E.
+    birthdate: 1859
+    deathdate: 1895
+    gutenberg_agent_id: '34864'
+    url: http://www.gutenberg.org/2009/agents/34864
+description: ''
+gutenberg_issued: '2010-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Mothers and daughters -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Ruby at School
+url: http://www.gutenberg.org/ebooks/30860
